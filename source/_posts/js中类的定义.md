@@ -12,7 +12,7 @@ grammar_cjkRuby: true
   - Object.create() 
   很方便的基于对象生成对象，简单，但是不能私有属性和方法，实例之间不共享数据
   
-  -封装对象模拟类
+  - 封装对象模拟类
 
 ``` javascript
   
